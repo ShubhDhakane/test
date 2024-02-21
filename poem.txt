@@ -1,1 +1,2 @@
-today i learn git  
+today i learn git.
+learn one topic
